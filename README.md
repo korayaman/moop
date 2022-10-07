@@ -21,3 +21,4 @@ telefon='uye telefon' <br>
 "; <br>
 $uyeGuncelle=guncelle("uye","{$set}","1");
 <hr>
+Sistem Gereksinim : PHP 7.43, PDO , Mysql, CPanel, CDN Oldugu icin internet 
